@@ -1,0 +1,34 @@
+{
+  "name": "react",
+  "version": "1.0.0",
+  "description": "This is React by Nitika Adhikari",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ms235333/React.git"
+  },
+  "keywords": [
+    "React"
+  ],
+  "author": "Nitika",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ms235333/React/issues"
+  },
+  "homepage": "https://github.com/Ms235333/React#readme",
+  "devDependencies": {
+    "parcel": "^2.15.2"
+  },
+  "dependencies": {
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0",
+    "react-router-dom": "^6.22.3"
+  },
+  "browserslist": [
+    "last 2 version"
+  ]
+}
